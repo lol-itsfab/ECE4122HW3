@@ -1,5 +1,6 @@
 # ECE4122HW3 README File
-By: Fabian Contreras
+By: Fabian Contreras  
+
 HW3 Includes a rural scene that was rendered through PACE-ICE to ensure compatibility and correctness.
 
 #Build Instructions
