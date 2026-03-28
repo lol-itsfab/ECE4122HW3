@@ -17,7 +17,7 @@ Within the rendered rural scene you actually have contorl in what you can do for
 4) D - Moves you right
 5) E - Moves you up
 6) Q - Moves you down
-7) Right Mouse + drag - Rotates camera torward the drag direction
+7) Right Mouse Button + drag - Rotates camera torward the drag direction
 8) Scroll Wheel - Zooms in and out controlling FOV(A faster forward and backward)
 9) R - Resets the camera to its original position
 10) ESC - Exits the application
